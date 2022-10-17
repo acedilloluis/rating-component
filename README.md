@@ -58,4 +58,4 @@ function displayThankYou() {
 
 ### Continued development
 
-In the future projets I liked to try to use different layout methods. In this project I used flexbox once again.
+In future projets I'd like to try to use different layout methods. In this project I used flexbox once again.
