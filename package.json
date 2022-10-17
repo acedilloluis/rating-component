@@ -1,0 +1,23 @@
+{
+  "name": "interactive-rating-component",
+  "version": "1.0.0",
+  "description": "A solution for Interactive Rating Component from Frontend Mentor",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "@parcel/transformer-css": {
+    "drafts": {
+      "nesting": true
+    }
+  },
+  "author": "Luis Cedillo",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-prettier": "^8.5.0",
+    "parcel": "^2.7.0",
+    "prettier": "^2.7.1"
+  }
+}
